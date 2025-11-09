@@ -9,6 +9,14 @@
 
 ---
 
+### 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mingzzang666@gmail.com)
+[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/Backend-Developer-29f398415952808a8e05c9143d39dae4)
+
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 💬 Language
@@ -78,12 +86,6 @@
 
 ![Mingzzang's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingzzang666&show_icons=true&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingzzang666&layout=compact&theme=gruvbox)
-
----
-
-### 📫 Contact
-
-📧 **Email:** mingzzang666@gmail.com 
 
 ---
 
