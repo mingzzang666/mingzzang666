@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5da571bb-0ec3-46f6-8329-beed22062855" alt="Banner" width="100%" />
+</div>
+
 ## 💖 Hi, I'm Mingzzang
 
 🚀 **Efficient & Practical Backend Developer**
