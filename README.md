@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5da571bb-0ec3-46f6-8329-beed22062855" alt="Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/e6237612-0ac3-4dc9-966f-3f982ebbe1d5" />
 </div>
 
 ## 💖 Hi, I'm Mingzzang
